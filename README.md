@@ -1,5 +1,5 @@
 # brazilianportuguesener
- This repository corresponds to the implementation for the research work titled "Combining Model Soups and Domain Adaptation for Portuguese Named Entity Recognition".
+ This repository corresponds to the implementation for the research work titled "Tackling low-resource NER: Exploring model soup, domain adaptation, few-shot and zero-shot strategies".
 
 
 **Folder Structure and Descriptions:**
