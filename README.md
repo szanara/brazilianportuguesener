@@ -48,6 +48,7 @@ Any external code included in this repository is accompanied by a .txt file prov
 
 **Additional Notes:**
  - Most comments in the code are written in Brazilian Portuguese.
+ - The path on the notebooks/*-shot_*.ipynb are illustrative, you must to replace it. 
 - If you use the code or datasets from this repository, please cite the following research paper:
 
 Souza, M., Monteiro, M., & Zanchettin, C. (2026).
